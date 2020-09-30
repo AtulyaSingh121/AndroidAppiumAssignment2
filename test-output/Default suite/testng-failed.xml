@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Mobile_Selenium_TestNG_Maven_Assignment2.AndroidAppiumAssignment.DW007TC_usingXLsheel">
+        <methods>
+          <include name="Login"/>
+          <include name="LogOut"/>
+          <include name="URLLaunch"/>
+        </methods>
+      </class> <!-- Mobile_Selenium_TestNG_Maven_Assignment2.AndroidAppiumAssignment.DW007TC_usingXLsheel -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
